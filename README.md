@@ -1,4 +1,4 @@
-I live in Himeji. Hello!
+Hello🐤
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pyohei&count_private=true)
 
