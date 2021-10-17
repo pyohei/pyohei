@@ -1,6 +1,6 @@
 Hello🐤
 
-Recently, I mainly use Python, Vue.
+Recently, I mainly use Python, Vue.  
 I live in Himeji🏯🇯🇵
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pyohei&count_private=true)
