@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm living in Japan🇯🇵, and recently in Himeji🏯  
+I'm living in Himeji🏯, Japan🇯🇵.
 I like creating useful tool🧰  
 
 <!--
