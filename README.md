@@ -1,7 +1,7 @@
 #### Hi there 👋
 
-I'm living in Himeji🏯, Japan🇯🇵.
-I like creating useful tool🧰  
+I'm living in Himeji🏯, Japan🇯🇵.  
+I like creating useful tool🧰.    
 
 <!--
 **pyohei/pyohei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
