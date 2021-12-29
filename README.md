@@ -1,9 +1,7 @@
-Hello🐤
+#### Hi there 👋
 
-Recently, I mainly use Python, Vue.  
-I live in Himeji🏯🇯🇵
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pyohei&count_private=true)
+I'm living in Japan🇯🇵, and recently in Himeji🏯
+I like creating useful tool🧰
 
 <!--
 **pyohei/pyohei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
